@@ -1,0 +1,10 @@
+yfinance
+pandas
+fastapi
+uvicorn
+scikit-learn==1.5.2
+tensorflow==2.21.0
+matplotlib
+numpy==2.2.3
+scipy
+vaderSentiment==3.3.2
