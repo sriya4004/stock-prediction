@@ -15,7 +15,7 @@ ChartJS.register(
   ArcElement, Title, Tooltip, Legend, Filler
 );
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://stock-prediction-backend-j6mc.onrender.com";
 
 function App() {
   const [ticker, setTicker] = useState("AAPL");
