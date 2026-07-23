@@ -28,7 +28,7 @@ ChartJS.register(
   Legend
 );
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://stock-prediction-backend-j6mc.onrender.com";
 
 const Dashboard = () => {
   const [ticker, setTicker] = useState("AAPL");
